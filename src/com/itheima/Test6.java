@@ -76,4 +76,5 @@ public class Test6 {
         }
         System.out.println(number3);
     }
+
 }
