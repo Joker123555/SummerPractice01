@@ -1,4 +1,4 @@
-package com.itheima;
+package com.itheima.test1;
 
 
 import java.util.Scanner;
